@@ -1,0 +1,27 @@
+Bug Bounty Recon Report Template
+=================================
+
+Target: example.com
+Date: YYYY-MM-DD
+
+[Subdomains]
+- Total: XX
+- Live: XX
+
+[Endpoints]
+- Total discovered: XXX
+- JS Files: XX
+
+[Vulnerabilities Found]
+- XSS: XX
+- SQLi: XX
+- IDOR: XX
+- LFI: XX
+- Open Redirect: XX
+- CRLF: XX
+- CORS Misconfig: XX
+- Subdomain Takeover: XX
+
+[Notes]
+- Summary of findings and recommendations.
+
